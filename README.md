@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi, my name is Niko Tossavainen.
 #### An aspiring game designer
-![An aspiring game designer](![github](https://github.com/naigelt/naigelt/blob/main/SS_Project.png))
+![An aspiring game designer](![github](/naigelt/naigelt/blob/main/SS_Project.png))
 
 Great seeing you here, I'm a 24-year old aspiring game designer. Games and computers have been a big part of my life, from around the age of 4. Currently studying in **Metropolia University of applied sciences**, and majoring in game development.  
 
