@@ -1,15 +1,17 @@
 ### Hi there 👋, Hi, my name is Niko Tossavainen.
-#### An aspiring game designer
+#### A Passionate Software Developer
 
 
-Great seeing you here, I'm a 24-year old aspiring game designer. Games and computers have been a big part of my life, from around the age of four. Currently studying in **Metropolia University of applied sciences**, and majoring in game development. Learning the ins and outs of everything tech related is a real passion of mine. 
-I love my computer and have a lot ot experience in troubleshooting a lot of computer related stuff, hardware  and software. Software even more now, since starring my studies. Im mostly passionated about game desing. What makes games great and fun? Or what makes games rewarding, even addicting. All the different systems in games are facianating and I'm honing my own skills to be able to create game that people love. Games are the best way of entertainment, atleast in my eyes and passion makes great games.
+Hi, I'm Niko, and I'm a Software Engineering Student at Metropolia University of Applied Sciences. I mostly enjoy the process of creating efficient software and solving hard problems in the backend side of engineering. I love to learn and enjoy working with diverse people, who can expand my own vision of how different types of problems should/could be solved. I'm driven to excel in the software development world, and my strengths include, communication skills, problem solving skills, software development skills and giving/receiving feedback.
 
-Skills: **C## / C++ / Python / Unity**
+My projects include game engine server for Flappy bird and running the game in a Python client to teach a reinforcement learning agent to play the game. A VR project made for the Finnish company Varjo Technologies Oy. Where I was the team leader and responsible for implementing hand tracking for the VR-Headset. These are the most recent projects, but i have many more projects under my belt.
 
-- 🔭 I’m currently working on My first portfolio project 
+My personal interests include: Bodybuilding and fitness, gaming, technology, anime and youtube videos.
+Skills: **C## / C++ / Python / Unity / Python**
+
+- 🔭 I’m currently working on Afrikan Tähti Ai Agent and game engine
 - 🌱 I’m currently learning **C++** 
-- 💬 Ask me about Anything about games, love to chat about game design, especially in game systems. 
+- 💬 Ask me about Anything about games, software and technology
 - 📫 How to reach me: Nikotossavainen1999@gmail.com 
 - ⚡ Fun fact: I love cats 
 
